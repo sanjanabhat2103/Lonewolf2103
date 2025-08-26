@@ -3,7 +3,7 @@
 As an undergraduate in AIDA, this repository contains all the coding assignments done as part of DA 1301 - Programming in Data structures
 When not coding, you can find me humming a song or sweating it out on the badminton court
 
-## GITHUB -OPENING VISTAS TO THE TECH WORLD
+## GITHUB - OPENING VISTAS TO THE TECH WORLD
 
 *The best theory is always inspired by practice.*
 Github helps track my coding journey and showcase my projects.
