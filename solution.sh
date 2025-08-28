@@ -28,7 +28,7 @@ grep "TODO" *.py
 history -20
 
 # 10. Show processes sorted by memory usage
-top -o mem
+ps aux --sort=-%mem
 
 # 11. Find all directories named "backup" anywhere on the system
 find / -type d -name "backup"
